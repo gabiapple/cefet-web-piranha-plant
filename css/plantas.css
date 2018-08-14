@@ -1,0 +1,32 @@
+h1, h2 {
+	font-family: "Times New Roman";
+	color: limegreen;
+}
+
+h1 {
+	font-size: 28px;
+}
+
+
+h2 {
+	font-size: 24px;
+}
+
+blockquote, q {
+	font-style: italic;
+}
+
+body {
+	font-family: "Arial";
+	background-image: url(../imagens/fundo.png);
+}
+
+img {
+	border-color: limegreen;
+	border-style: solid;
+	border-width: 4px;
+}
+
+p {
+	text-align: justify;
+}
